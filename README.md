@@ -4,16 +4,19 @@ A basic telegram bot with Ruby
 Setup
 -----
 
-Set up your environment:
-
-In your terminal, export an environment variable for API_KEY
-```export API_KEY=abc..123..xyz```
 
 Set up your bot (Talk to BotFather, yes really):
 
 <img width="367" alt="Screenshot 2022-04-16 at 19 26 19" src="https://user-images.githubusercontent.com/6726149/163687053-059e7c9c-5430-4053-8167-137bb3a5438b.png">
 
 https://t.me/botfather/ and follow the instructions
+
+
+Set up your environment:
+
+In your terminal, export an environment variable for API_KEY
+```export API_KEY=abc..123..xyz```
+
 
 Run bundle on the existing Gemfile, this should install prerequisities
 
